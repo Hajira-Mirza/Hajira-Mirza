@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Hajira (but I'm used to being called Sonia)!
 
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a love for learning and a flair for design.
 
