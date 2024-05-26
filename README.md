@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a l
 I believe in the power of blending functionality with aesthetics. A well-designed application is not just about how it works, but also how it feels. My goal is to create digital experiences that are intuitive, engaging, and delightful.
 
 ## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Hajira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hajira-Mirza&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hajira-Mirza&layout=compact&theme=radical)
 
 ## 🔗 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/hajira-mirza)
